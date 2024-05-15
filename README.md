@@ -4,7 +4,7 @@
 Après avoir suivi une formation de développeur en février 2023, j'ai enchaîné par une formation en alternance Concepteur Développeur d'Applications en alternance. 
 Je suis actuellement teaching Assistant sur le cursus PHP/Symfony à la Wild Code School jusqu'à septembre 2024. 
 
-## 🔧 Quels langages j'utilises ?
+## 🔧 Quels langages j'utilise ?
 - **Langages de programmation :** 
   - ![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white)
   - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
