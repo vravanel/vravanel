@@ -1,13 +1,11 @@
 <h1 align="center">Salut 👋, Je m'appelle Vincent Ravanel</h1>
-<h3 align="center">Après avoir suivi une formation de développeur en février 2023, j'ai enchaîné par une formation en alternance Concepteur Développeur d'Applications en alternance. Je suis actuellement teaching Assistant sur le cursus PHP/Symfony à la Wild Code School jusqu'à septembre 2024</h3>
+<p align="center">Après avoir suivi une formation de développeur en février 2023, j'ai enchaîné par une formation en alternance Concepteur Développeur d'Applications en alternance. Je suis actuellement teaching Assistant sur le cursus PHP/Symfony à la Wild Code School jusqu'à septembre 2024</p>
 
 - 🔭 Je travaille en ce moment sur [Quiz pour le titre professionnel](https://github.com/vravanel/projet_test)
-
+- 🤝 Je travaille aussi sur [Watch Series](https://github.com/vravanel/watch-series)
+- 👯 Je travaille en collaboration dans le cadre de mon alternance [Luxelair](https://github.com/vravanel/luxelair)
 - 🌱 J'apprends actuellement **Next.js, GraphQL, React, Node.js, TypeORM, Typescript**
 
-- 👯 Je travaille en collaboration dans le cadre de mon alternance [Luxelair](https://github.com/vravanel/luxelair)
-
-- 🤝 I’m looking for help with [Watch Series](https://github.com/vravanel/watch-series)
 
 - 📫 Comment me contacter **vravanel@gmail.com**
 
